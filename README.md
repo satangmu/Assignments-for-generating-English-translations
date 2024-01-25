@@ -28,7 +28,8 @@
 ## 평가지표
 ![스크린샷 2024-01-25 193340](https://github.com/satangmu/Assignments-for-generating-English-translations/assets/148983269/2221ce00-b4de-48df-870a-720b3f231474)
 
-
+## 모델
+![스크린샷 2024-01-25 210914](https://github.com/satangmu/Assignments-for-generating-English-translations/assets/148983269/6e0d0fb9-1bb9-42d2-98fa-b7243ac0839d)
 
 ## 결과
 - 순위 : 6/64

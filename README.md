@@ -1,7 +1,7 @@
 # 자연스러운 영한 번역문 생성 과제
 - 경진대회 기간 : 2023-10-27 ~ 2023-11-08
 - 참가인원 : 64명
-- 자연어 영역 | BLEU Score
+- 자연어(NLP) 영역 | BLEU Score
 ## 문제 정의
 - 보다 자연스러운 기계 번역문을 생성하기 위한 영한 번역 및 사후 교정 문제
 
@@ -28,10 +28,17 @@
 ## 평가지표
 ![스크린샷 2024-01-25 193340](https://github.com/satangmu/Assignments-for-generating-English-translations/assets/148983269/2221ce00-b4de-48df-870a-720b3f231474)
 
-## 모델
+
+
+
+## 최종사용 모델
 ![스크린샷 2024-01-25 210914](https://github.com/satangmu/Assignments-for-generating-English-translations/assets/148983269/6e0d0fb9-1bb9-42d2-98fa-b7243ac0839d)
+
+- KE-T5 : https://github.com/AIRC-KETI/ke-t5
 
 ## 결과
 - 순위 : 6/64
 - BLEU : 42.2919
 ![스크린샷 2024-01-25 193742](https://github.com/satangmu/Assignments-for-generating-English-translations/assets/148983269/ed79c992-6b22-490b-b573-45334c37686c)
+
+

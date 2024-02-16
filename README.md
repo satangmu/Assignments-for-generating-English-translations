@@ -29,6 +29,8 @@
 ![스크린샷 2024-01-25 193340](https://github.com/satangmu/Assignments-for-generating-English-translations/assets/148983269/2221ce00-b4de-48df-870a-720b3f231474)
 
 
+## 진행 과정
+데이터 전처리 -> 모델 선택 -> 하이퍼 파라미터 튜닝 -> 제출
 
 
 ## 최종사용 모델
